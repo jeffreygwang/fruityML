@@ -8,7 +8,7 @@ CNN for fruit classification.
 
 This network uses keras/TensorFlow for the network setup, sk-learn and pandas for pre-processing data, and matplotlib for graphing image samples.
 
-Download the dataset here: https://www.kaggle.com/moltean/fruits. 
+Download the dataset here: https://www.kaggle.com/moltean/fruits. I ran this in a conda environment; see the dependencies in the yml file.
 
 ## Architecture
 
