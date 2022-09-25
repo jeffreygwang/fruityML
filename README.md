@@ -1,6 +1,6 @@
 # fruitCNN
 
-CNN for fruit classification. 
+CNN for fruit classification. Used on Kaggle.
 
 ![fruits_model](https://user-images.githubusercontent.com/39931478/149639238-c5c04c73-f039-4695-b403-d5ce3d5131cf.png)
 
